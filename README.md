@@ -76,23 +76,23 @@ En 3
 
 **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
-Equivale a 4 divisiones de 0.1 minutos cada una, dando como resultado 0.4 minutos. 
+Equivale a 4 divisiones de 0.1 ms cada una, dando como resultado 0.4 ms. 
 
 **¿En qué valor está posicionada la perilla TIME/DIV?**
 
-En 0.1 m
+En 0.1 ms
 
 #### 3.3.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 Amplitud de voltaje: 6.85 (V)
 
-Periodo: 0.4min = 24 (s)
+Periodo: 0.4ms = 0.0004 (s)
 
 #### 3.3.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f: 1/0.4m = 1/24 s = 0.04166 (Hz)
+f: 1/0.0004 s  =  2500 (Hz)
 
-ω: 2πf = 2π(0.04166)= 0.261 (rad/s)
+ω: 2πf = 2π(2500)= 15707.96 (rad/s)
 
 #### 3.3.7. Con el multímetro digital mida el voltaje de salida en RL:  4.482 V
 
