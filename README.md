@@ -86,7 +86,7 @@ En 0.1 ms
 
 Amplitud de voltaje: 6.85 (V)
 
-Periodo: 0.4ms = 0.0004 (s)
+Periodo: 4div * 0.1 ms/div = 0.4 (ms) = 0.0004 (s)
 
 #### 3.3.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
