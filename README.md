@@ -88,8 +88,8 @@ Periodo: (s)
 
 #### 1.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f: 2500 (Hz)
-ω: ____________(rad/s)
+f: 1/0.4m = 1/24 s = 0.04166 (Hz)
+ω: 2πf = 2π(0.04166)= 0.261 (rad/s)
 
 #### 1.5.7. Con el multímetro digital mida el voltaje de salida en RL:  4.482 V
 
