@@ -20,13 +20,17 @@
 
    #### Objetivo General:
 
-   - 
+   - Conocer el funcionamiento de las Ondas senoidales y poderlas aplicar de manera correcta tanto en forma práctica mediante el simulador DCACLAB como de forma teorica. 
 
    #### Objetivos Específicos:
     
-   -
- 
-    
+   - Aplicar los conocimientos impartidos en clase sobre Ondas senoidales y ponerlos en práctica mediante este laboratorio.
+   - Conocer el concepto fundamental de ondas senoidales y entender como se aplican en eléctrica y electrónica.
+   - Aprender cómo obtener una Onda senoidal mediante diferentes formas y mediante algunos aparatos aptos para esto. 
+   - Conocer las partes por la que está formada una Onda senoidal para tener un mejor entendimiento a la hora de ponerlas en práctica.
+
+![image](https://user-images.githubusercontent.com/84594486/132274427-b932a033-d676-4b67-8e0a-4f6d3aa195fc.png)
+
 ### 1.2. REQUISITOS PREVIOS.
  
    Investigue la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática.
@@ -81,9 +85,21 @@ f: _____________(Hz)
 
 #### 7.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
 
+![image](https://user-images.githubusercontent.com/84594486/132274500-161dbbc4-0598-460d-a27e-1f94d8a87a21.png)
+
+
 #### 7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
 ¿Coinciden? _______ ¿Por qué?
+
+CONCLUSIONES:
+
+- Al haber realizado la práctica de laboratorio concluimos que una Onda senoidal es muy útil en Corriente Alterna para poder representar el valor de la tensión a través de un tiempo continuamente variable. 
+-	Aprendimos que existen varias formas de obtener una Senoidal a más del Osciloscopio que fue el que usamos en esta práctica de laboratorio como el Oscilador de Wein. 
+
+- También observamos que para el manejo de ondas senoidales el osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas y nos va permitir encontrar los valores y formas adecuadas. 
+
+- Con esta práctica aprendimos a usar un poco más el Osciloscopio y a dominar valores como voltaje pico, frecuencia de la tensión y la fabricación de  ondas senoidales. 
 
 
     
