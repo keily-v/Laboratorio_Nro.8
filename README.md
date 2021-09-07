@@ -94,7 +94,7 @@ f: 1/0.0004 s  =  2500 (Hz)
 
 ω: 2πf = 2π(2500)= 15707.96 (rad/s)
 
-#### 3.3.7. Con el multímetro digital mida el voltaje de salida en RL:  4.482 V
+#### 3.3.7. Con el multímetro digital mida el voltaje de salida en RL:  4.82 V
 
 ![image](https://user-images.githubusercontent.com/84594486/132274500-161dbbc4-0598-460d-a27e-1f94d8a87a21.png)
 
