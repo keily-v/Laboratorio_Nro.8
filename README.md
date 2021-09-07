@@ -72,7 +72,7 @@ Cada división por cuadro abarca 3 voltios. La amplitud pico de la señal de sal
 
 **¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
-En 3
+En 3 
 
 **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
