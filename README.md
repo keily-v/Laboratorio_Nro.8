@@ -64,19 +64,19 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 #### 1.5.4. Responda las siguientes preguntas:
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+**¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
 Cada división por cuadro abarca 3 voltios. La amplitud pico de la señal de salida son 2 cuadros de 3 voltios cada uno con 0.85 V 
 
-¿En qué valor está posicionada la perilla VOLTS/DIV?
+**¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
-**en 3**
+En 3
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+**¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
-Un ciclo abarca 0.4 minutos 
+Un ciclo abarca 0.4 minutos lo que equivale a 4 cuadros de 0.1 minutos. 
 
-¿En qué valor está posicionada la perilla TIME/DIV?
+**¿En qué valor está posicionada la perilla TIME/DIV?**
 
 En 0.1 m
 
@@ -91,9 +91,7 @@ Periodo: (s)
 f: 2500 (Hz)
 ω: ____________(rad/s)
 
-#### 1.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
-
-**4.482 V**
+#### 1.5.7. Con el multímetro digital mida el voltaje de salida en RL:  4.482 V
 
 ![image](https://user-images.githubusercontent.com/84594486/132274500-161dbbc4-0598-460d-a27e-1f94d8a87a21.png)
 
