@@ -66,15 +66,19 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+Cada división por cuadro abarca 3 voltios. La amplitud pico de la señal de salida son 2 cuadros de 3 voltios cada uno con 0.85 V 
+
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-** en 3 **
+**en 3**
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+Un ciclo abarca 0.4 minutos 
+
 ¿En qué valor está posicionada la perilla TIME/DIV?
 
-** en 0.1 m **
+En 0.1 m
 
 #### 1.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
@@ -95,7 +99,7 @@ f: 2500 (Hz)
 
 #### 7.5.8. Compare el voltaje medido en el punto 1.5.5. y el obtenido en el punto 1.5.7.
 
-¿Coinciden? _______ ¿Por qué?
+¿Coinciden? No conciden porque 
 
 CONCLUSIONES:
 
