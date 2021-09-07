@@ -74,7 +74,7 @@ En 3
 
 **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
-Un ciclo abarca 0.4 minutos lo que equivale a 4 cuadros de 0.1 minutos. 
+Equivale a 4 divisiones de 0.1 minutos cada una, dando como resultado 0.4 minutos. 
 
 **¿En qué valor está posicionada la perilla TIME/DIV?**
 
@@ -84,11 +84,12 @@ En 0.1 m
 
 Amplitud de voltaje: 6.85 (V)
 
-Periodo: (s)
+Periodo: 0.4min = 24 (s)
 
 #### 1.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
 f: 1/0.4m = 1/24 s = 0.04166 (Hz)
+
 ω: 2πf = 2π(0.04166)= 0.261 (rad/s)
 
 #### 1.5.7. Con el multímetro digital mida el voltaje de salida en RL:  4.482 V
