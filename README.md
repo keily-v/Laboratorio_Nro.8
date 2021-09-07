@@ -68,27 +68,32 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
+** en 3 **
+
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 ¿En qué valor está posicionada la perilla TIME/DIV?
 
+** en 0.1 m **
+
 #### 1.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
+Amplitud de voltaje: 6.85 (V)
 
-Amplitud de voltaje: ____________(V)
+Periodo: (s)
 
-Periodo: ____________(s)
-#### 7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+#### 1.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f: _____________(Hz)
+f: 2500 (Hz)
 ω: ____________(rad/s)
 
-#### 7.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+#### 1.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+
+**4.482 V**
 
 ![image](https://user-images.githubusercontent.com/84594486/132274500-161dbbc4-0598-460d-a27e-1f94d8a87a21.png)
 
-
-#### 7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+#### 7.5.8. Compare el voltaje medido en el punto 1.5.5. y el obtenido en el punto 1.5.7.
 
 ¿Coinciden? _______ ¿Por qué?
 
