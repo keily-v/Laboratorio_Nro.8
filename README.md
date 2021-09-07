@@ -100,7 +100,7 @@ f: 1/0.4m = 1/24 s = 0.04166 (Hz)
 
 #### 3.3.8. Compare el voltaje medido en el punto 1.5.5. y el obtenido en el punto 1.5.7.
 
-¿Coinciden? No conciden porque 
+¿Coinciden? No conciden porque el voltaje medido es eficaz o rms. 
 
 ## 4. VIDEO:
 
