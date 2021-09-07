@@ -68,7 +68,7 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
-Cada división por cuadro abarca 3 voltios. La amplitud pico de la señal de salida son 2 cuadros de 3 voltios cada uno con 0.85 V 
+Cada división por cuadro abarca 3 voltios. La amplitud pico de la señal de salida son 2 cuadros de 3 voltios cada uno más 0.85 V del tercer cuadro.
 
 **¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
